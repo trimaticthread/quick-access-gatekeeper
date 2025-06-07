@@ -1,3 +1,4 @@
+
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -8,6 +9,7 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import { NotificationProvider } from "./contexts/NotificationContext";
 
 // Ana Sayfa ve Ana Bileşenler
+import Index from "./pages/Index";
 import Dashboard from "./pages/Dashboard";
 import Login from "./pages/account/Login";
 import NotFound from "./pages/NotFound";
@@ -58,8 +60,10 @@ const App = () => (
             <Sonner />
             <BrowserRouter>
               <Routes>
-                {/* Giriş Sayfası - Ana sayfa olarak ayarlandı */}
-                <Route path="/" element={<Login />} />
+                {/* Ana sayfa - Index bileşeni */}
+                <Route path="/" element={<Index />} />
+                
+                {/* Giriş Sayfası */}
                 <Route path="/login" element={<Login />} />
                 
                 {/* Korumalı Rotalar */}
