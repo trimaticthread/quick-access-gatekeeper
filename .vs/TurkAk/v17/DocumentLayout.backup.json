@@ -1,0 +1,604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topra\\Desktop\\TurkAk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\api\\tbdsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\api\\tbdsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\services\\tbds\\tbdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\services\\tbds\\tbdsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\services\\turkakaccservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\services\\turkakaccservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\calibrationcertificatedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\calibrationcertificatedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\calibrationcertificatelistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\calibrationcertificatelistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\calibrationcertificatesavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\calibrationcertificatesavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\certificatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\certificatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\calibrationcustomersavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\calibrationcustomersavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\calibrationcustomerdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\calibrationcustomerdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\api\\turkakaccapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\api\\turkakaccapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\accounttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\accounttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\tbds\\customershortdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\tbds\\customershortdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\models\\turkakacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\models\\turkakacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\turkakacclogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\turkakacclogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\turkakaccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\turkakaccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\referencedevicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\referencedevicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\newdevicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\newdevicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\models\\newdevicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\models\\newdevicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\newdevicetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\newdevicetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\controllers\\customerscertificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\controllers\\customerscertificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\customerscertificatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\customerscertificatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\viewmodels\\referencedeviceadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\viewmodels\\referencedeviceadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|c:\\users\\topra\\desktop\\turkak\\turkak\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB681B-D27C-438F-8469-D74AF52DF605}|TurkAk\\TurkAk.csproj|solutionrelative:turkak\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalibrationCertificateListItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCertificateListItemDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CalibrationCertificateListItemDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCertificateListItemDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CalibrationCertificateListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:11:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalibrationCertificateDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCertificateDetailDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CalibrationCertificateDetailDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCertificateDetailDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CalibrationCertificateDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:36:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalibrationCertificateSaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCertificateSaveDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CalibrationCertificateSaveDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCertificateSaveDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CalibrationCertificateSaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:35:06.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TbdsService.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Services\\Tbds\\TbdsService.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Services\\Tbds\\TbdsService.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Services\\Tbds\\TbdsService.cs",
+              "RelativeToolTip": "TurkAk\\Services\\Tbds\\TbdsService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:34:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalibrationCustomerDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCustomerDataDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CalibrationCustomerDataDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCustomerDataDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CalibrationCustomerDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:33:31.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Program.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Program.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Program.cs",
+              "RelativeToolTip": "TurkAk\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:43:27.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TbdsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\Api\\TbdsApiController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\Api\\TbdsApiController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\Api\\TbdsApiController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\Api\\TbdsApiController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA/wD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:35:10.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurkAkaccService.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Services\\TurkAkaccService.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Services\\TurkAkaccService.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Services\\TurkAkaccService.cs",
+              "RelativeToolTip": "TurkAk\\Services\\TurkAkaccService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:07:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CountryDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CountryDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:06:53.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\FileDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\FileDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\FileDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\FileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:07:38.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CertificateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CertificateCustomerDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CertificateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CertificateCustomerDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CertificateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:11:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalibrationCustomerSaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCustomerSaveDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CalibrationCustomerSaveDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CalibrationCustomerSaveDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CalibrationCustomerSaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:23:57.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TurkAkaccApiController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\Api\\TurkAkaccApiController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\Api\\TurkAkaccApiController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\Api\\TurkAkaccApiController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\Api\\TurkAkaccApiController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA1wF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:11:25.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\AccountTypeDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\AccountTypeDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\AccountTypeDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\AccountTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:07:28.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CityDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CityDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CityDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:07:18.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerShortDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CustomerShortDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\Tbds\\CustomerShortDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\Tbds\\CustomerShortDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\Tbds\\CustomerShortDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:53:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:12:20.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TurkAk\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAxwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:08:00.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TurkAkacc.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\TurkAkacc.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Models\\TurkAkacc.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\TurkAkacc.cs",
+              "RelativeToolTip": "TurkAk\\Models\\TurkAkacc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:49:18.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\appsettings.json",
+              "RelativeDocumentMoniker": "TurkAk\\appsettings.json",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\appsettings.json",
+              "RelativeToolTip": "TurkAk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T15:43:51.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TurkAkaccLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\TurkAkaccLoginDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\TurkAkaccLoginDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\TurkAkaccLoginDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\TurkAkaccLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:05:49.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA0wGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:18:13.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:40:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\EmployeeDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\EmployeeDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:17:46.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewDeviceTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\NewDeviceTypeDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\NewDeviceTypeDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\NewDeviceTypeDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\NewDeviceTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:19:47.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReferenceDevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\ReferenceDevicesController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\ReferenceDevicesController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\ReferenceDevicesController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\ReferenceDevicesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:39:06.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TurkAkaccDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\TurkAkaccDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\TurkAkaccDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\TurkAkaccDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\TurkAkaccDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:20:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewDeviceTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\NewDeviceTypesController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\NewDeviceTypesController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\NewDeviceTypesController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\NewDeviceTypesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:36:03.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewDeviceType.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\NewDeviceType.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Models\\NewDeviceType.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\NewDeviceType.cs",
+              "RelativeToolTip": "TurkAk\\Models\\NewDeviceType.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:18:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomersCertificatesController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\CustomersCertificatesController.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Controllers\\CustomersCertificatesController.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Controllers\\CustomersCertificatesController.cs",
+              "RelativeToolTip": "TurkAk\\Controllers\\CustomersCertificatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:32:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\Employee.cs",
+              "RelativeToolTip": "TurkAk\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:24:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReferenceDeviceAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\ReferenceDeviceAddDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\ReferenceDeviceAddDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\ReferenceDeviceAddDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\ReferenceDeviceAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:20:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomersCertificateDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\CustomersCertificateDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\CustomersCertificateDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\CustomersCertificateDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\CustomersCertificateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:18:15.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "TurkAk\\ViewModels\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\ViewModels\\CustomerDto.cs",
+              "RelativeToolTip": "TurkAk\\ViewModels\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:11:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "TurkAk\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\topra\\Desktop\\TurkAk\\TurkAk\\Models\\Customer.cs",
+              "RelativeToolTip": "TurkAk\\Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:08:52.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
